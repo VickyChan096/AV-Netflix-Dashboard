@@ -1,0 +1,39 @@
+[
+  {
+    "title": "範例：愛在黎明破曉時",
+    "type": "movie",
+    "status": "watched",
+    "genre": "愛情",
+    "cover": "https://cdn-general.cybassets.com/media/W1siZiIsIjQ5Mi9wcm9kdWN0cy84MjA0NS9NT1ZBVE0tMDkxXzYwMi5qcGciXSxbInAiLCJ0aHVtYiIsIjYwMHg2MDAiXV0.jpg?sha=3e118107885d2dfd",
+    "ratingVicky": 5,
+    "ratingAllen": 4,
+    "watchedOn": "2026-07-12",
+    "note": "在維也納散步聊一整晚，兩個人都很喜歡"
+  },
+  {
+    "title": "範例：柏捷頓家族",
+    "type": "series",
+    "status": "wishlist",
+    "genre": "愛情",
+    "cover": "",
+    "ratingVicky": 4,
+    "ratingAllen": 5,
+    "startedOn": "2026-06-20",
+    "finishedOn": "",
+    "note": "跨了一個多月才追完，值得"
+  },
+  {
+    "title": "範例：沙丘 2",
+    "type": "movie",
+    "status": "wishlist",
+    "genre": "科幻",
+    "cover": ""
+  },
+  {
+    "title": "範例：黑鏡 第七季",
+    "type": "series",
+    "status": "wishlist",
+    "genre": "科幻",
+    "cover": ""
+  }
+]
