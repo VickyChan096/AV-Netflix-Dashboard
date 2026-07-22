@@ -1,39 +1,41 @@
 [
   {
-    "title": "範例：愛在黎明破曉時",
+    "title": "幸福綠皮書",
     "type": "movie",
     "status": "watched",
-    "genre": "愛情",
-    "cover": "https://cdn-general.cybassets.com/media/W1siZiIsIjQ5Mi9wcm9kdWN0cy84MjA0NS9NT1ZBVE0tMDkxXzYwMi5qcGciXSxbInAiLCJ0aHVtYiIsIjYwMHg2MDAiXV0.jpg?sha=3e118107885d2dfd",
+    "genre": "劇情",
+    "cover": "https://i0.wp.com/amovie.tw/wp-content/uploads/20190127221621_5.jpg?resize=1000%2C1584&quality=99&ssl=1",
     "ratingVicky": 5,
-    "ratingAllen": 4,
-    "watchedOn": "2026-07-12",
-    "note": "在維也納散步聊一整晚，兩個人都很喜歡"
-  },
-  {
-    "title": "範例：柏捷頓家族",
-    "type": "series",
-    "status": "wishlist",
-    "genre": "愛情",
-    "cover": "",
-    "ratingVicky": 4,
     "ratingAllen": 5,
-    "startedOn": "2026-06-20",
-    "finishedOn": "",
-    "note": "跨了一個多月才追完，值得"
+    "watchedOn": "2026-01-01",
+    "note": "有情有義，值得一看"
   },
   {
-    "title": "範例：沙丘 2",
+    "title": "刺激1995",
     "type": "movie",
     "status": "wishlist",
-    "genre": "科幻",
-    "cover": ""
+    "genre": "犯罪,劇情",
+    "cover": "https://images.vocus.cc/4ca9de26-edd4-42cb-9423-ac2a3973f878.jpg"
   },
   {
-    "title": "範例：黑鏡 第七季",
+    "title": "我獨自升級",
+    "type": "series",
+    "status": "watched",
+    "genre": "奇幻,冒險",
+    "cover": "https://news.xfastest.com/wp-content/uploads/2025/11/%E7%8D%A8%E8%87%AA%E5%8D%87%E7%B4%9A.jpg",
+    "ratingVicky": 4,
+    "ratingAllen": 5,
+    "startedOn": "2025-12-01",
+    "finishedOn": "2026-01-15",
+    "note": "男主角有點中二，但劇情讓人想繼續看"
+  },
+  {
+    "title": "鐵拳教育",
     "type": "series",
     "status": "wishlist",
-    "genre": "科幻",
-    "cover": ""
+    "genre": "劇情",
+    "cover": "https://media.cdn-news.org/media/6a/00000000a48997186a4fb9642eadb345a60b7f95c50a0ace/00000000a4899718ae5b8aefb4bb3444b6a6cf5353463c95.jpg",
+    "startedOn": "2026-06-20",
+    "finishedOn": ""
   }
 ]
